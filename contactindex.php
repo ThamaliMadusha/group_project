@@ -7,7 +7,7 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 </head>
 <body>
-	<?php include("includes/header1.php") ?>
+	<?php include("includes/header.php") ?>
 <!-- <h1 style="color: #2A24E2; background-color:#36EF67;"> Contact Us... <i class="glyphicon glyphicon-phone"></i></h1> -->
 <div>
 	<!-- <img src="img/contact-us-top.jpg" width="100%">
@@ -17,6 +17,9 @@
 	
 <map id="map" name="image-map">
     <area id="img" target="" alt="Send us a letter" title="Send us a letter" href="" coords="157, 215, 388, 470" shape="rect">
+    
+
+
     <area target="" alt="Call us" title="Call us" href="" coords="402, 180, 558, 436" shape="rect">
     <area target="" alt="Send us an Email" title="Send us an Email" href="" coords="565, 203, 790, 462" shape="rect">
     <area target="" alt="Send us an SMS" title="Send us an SMS" href="" coords="793, 162, 942, 419" shape="rect">
